@@ -42,6 +42,6 @@ Developed by Matheus Brito 🚀
 
 ⭐ If you like this project, consider giving it a star!
 
-👉 https://SEU-USUARIO.github.io/cabralia-construction-landing-page/
+👉 https://britoxdev.github.io/material-store-website/
 
 ## 📂 Project Structure
